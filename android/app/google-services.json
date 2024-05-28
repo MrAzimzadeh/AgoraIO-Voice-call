@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "802254302838",
+    "firebase_url": "https://chattapp-fee3c-default-rtdb.firebaseio.com",
+    "project_id": "chattapp-fee3c",
+    "storage_bucket": "chattapp-fee3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802254302838:android:7461bf6f685404de963957",
+        "android_client_info": {
+          "package_name": "com.azimzada.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802254302838-3c2flivn9efckclv4nqagdmoqil8kn20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWukDrFWM7ql5TSuFQVzefiZHUnJ3pO_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802254302838-3c2flivn9efckclv4nqagdmoqil8kn20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802254302838:android:6101be7e26a417eb963957",
+        "android_client_info": {
+          "package_name": "com.example.agora_voice_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802254302838-3c2flivn9efckclv4nqagdmoqil8kn20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWukDrFWM7ql5TSuFQVzefiZHUnJ3pO_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802254302838-3c2flivn9efckclv4nqagdmoqil8kn20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
